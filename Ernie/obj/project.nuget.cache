@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9Ds/rdAC54=",
+  "success": true,
+  "projectFilePath": "E:\\Ernie\\Ernie - Copy\\Ernie\\Ernie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wbh\\.nuget\\packages\\echarts.net\\1.1.1\\echarts.net.1.1.1.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\sunnyui\\3.6.6\\sunnyui.3.6.6.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\sunnyui.common\\3.6.6\\sunnyui.common.3.6.6.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\wbh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

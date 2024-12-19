@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AI_cahtbot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hospital_sum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalRecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_control_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Online_docotor_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medical_control\DrugDateinfomation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medical_control\InquireDrugDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medical_control\UpdateDrugDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

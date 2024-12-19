@@ -1,0 +1,93 @@
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Ernie.exe
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Ernie.deps.json
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Ernie.runtimeconfig.json
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Ernie.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Ernie.pdb
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.AssemblyReference.cache
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.Form1.resources
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.GenerateResource.cache
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfoInputs.cache
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfo.cs
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.CoreCompileInputs.cache
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\refint\Ernie.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.pdb
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.genruntimeconfig.cache
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\ref\Ernie.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.CopyComplete
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Users\M088442\source\repos\Ernie\Ernie\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.exe
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.deps.json
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.runtimeconfig.json
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.pdb
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.AssemblyReference.cache
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Form1.resources
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.GenerateResource.cache
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfoInputs.cache
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfo.cs
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.CoreCompileInputs.cache
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.CopyComplete
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\refint\Ernie.dll
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.pdb
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.genruntimeconfig.cache
+C:\Users\M088442\source\repos\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\ref\Ernie.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.exe
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\SunnyUI.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\System.Management.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.deps.json
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.runtimeconfig.json
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Ernie.pdb
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\RestSharp.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\System.CodeDom.dll
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.AssemblyReference.cache
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AdminForm.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Login.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Properties.Resources.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Register.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.UserForm.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.GenerateResource.cache
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfoInputs.cache
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AssemblyInfo.cs
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.CoreCompileInputs.cache
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.sourcelink.json
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.csproj.Up2Date
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.dll
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\refint\Ernie.dll
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.pdb
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.genruntimeconfig.cache
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\ref\Ernie.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\ECharts.Net.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.xml
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.xml
+E:\Ernie\Ernie - Copy\Ernie\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.xml
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.DoctorInfoForm.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.AI_cahtbot.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.MedicalRecordForm.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Admin_control_Form.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Hospital_sum.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Pharmacy_Management_System.DrugDateinfomation.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Pharmacy_Management_System.InquireDrugDate.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Pharmacy_Management_System.药品保质期信息.UpdateDrugDate.resources
+E:\Ernie\Ernie - Copy\Ernie\obj\Debug\net6.0-windows\Ernie.Online_docotor_search.resources

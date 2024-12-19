@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ernie\\Ernie - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\admin_control_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\admin_control_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\doctorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\doctorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\ai_cahtbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\ai_cahtbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\admin_control_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\admin_control_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\admin_control_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\admin_control_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\online_docotor_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\online_docotor_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\online_docotor_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\online_docotor_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\medicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medicalrecordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\hospital_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\hospital_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\hospital_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\hospital_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\doctorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\doctorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\ai_cahtbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\ai_cahtbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medical_control\\drugdateinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\drugdateinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\medical_control\\drugdateinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\drugdateinfomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\online_docotor_search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\online_docotor_search.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medical_control\\updatedrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\updatedrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medical_control\\inquiredrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\inquiredrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\medical_control\\inquiredrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\inquiredrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|E:\\Ernie\\Ernie - Copy\\ernie\\medical_control\\updatedrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\updatedrugdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medical_control\\drugdateinfomation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medical_control\\drugdateinfomation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\hospital_sum.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\hospital_sum.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\medicalrecordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\medicalrecordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\doctorinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\doctorinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\ernie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\ernie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\visual studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|e:\\ernie\\ernie - copy\\ernie\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158D3B8-CE6F-46EA-A77C-9C716BE1758F}|Ernie\\Ernie.csproj|solutionrelative:ernie\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\UserForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\UserForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:45:45.257Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_control_Form.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.cs",
+              "RelativeDocumentMoniker": "Ernie\\Admin_control_Form.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.cs",
+              "RelativeToolTip": "Ernie\\Admin_control_Form.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:33:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\AdminForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.cs",
+              "RelativeToolTip": "Ernie\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:58:10.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorInfoForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\DoctorInfoForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\DoctorInfoForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:04:21.823Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\AdminForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\AdminForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:42:27.285Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\UserForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.cs",
+              "RelativeToolTip": "Ernie\\UserForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:04:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin_control_Form.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.cs",
+              "RelativeDocumentMoniker": "Ernie\\Admin_control_Form.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Admin_control_Form.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:31:08.689Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.cs",
+              "RelativeDocumentMoniker": "Ernie\\Register.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Register.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:40:07.791Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AI_cahtbot.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\AI_cahtbot.cs",
+              "RelativeDocumentMoniker": "Ernie\\AI_cahtbot.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\AI_cahtbot.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\AI_cahtbot.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:40:10.295Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin_control_Form.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Admin_control_Form.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Admin_control_Form.Designer.cs",
+              "RelativeToolTip": "Ernie\\Admin_control_Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:05:50.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Online_docotor_search.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.cs",
+              "RelativeDocumentMoniker": "Ernie\\Online_docotor_search.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Online_docotor_search.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:52:20.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.cs",
+              "RelativeDocumentMoniker": "Ernie\\Register.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.cs",
+              "RelativeToolTip": "Ernie\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:46:13.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Online_docotor_search.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.cs",
+              "RelativeDocumentMoniker": "Ernie\\Online_docotor_search.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.cs",
+              "RelativeToolTip": "Ernie\\Online_docotor_search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:56:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalRecordForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\MedicalRecordForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\MedicalRecordForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:31:29.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicalRecordForm.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\MedicalRecordForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.cs",
+              "RelativeToolTip": "Ernie\\MedicalRecordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:30:26.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.cs",
+              "RelativeDocumentMoniker": "Ernie\\Login.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.cs",
+              "RelativeToolTip": "Ernie\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:47:17.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hospital_sum.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.cs",
+              "RelativeDocumentMoniker": "Ernie\\Hospital_sum.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.cs",
+              "RelativeToolTip": "Ernie\\Hospital_sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:09:36.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hospital_sum.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.cs",
+              "RelativeDocumentMoniker": "Ernie\\Hospital_sum.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Hospital_sum.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:42:52.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorInfoForm.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.cs",
+              "RelativeDocumentMoniker": "Ernie\\DoctorInfoForm.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.cs",
+              "RelativeToolTip": "Ernie\\DoctorInfoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:59:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AI_cahtbot.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\AI_cahtbot.cs",
+              "RelativeDocumentMoniker": "Ernie\\AI_cahtbot.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\AI_cahtbot.cs",
+              "RelativeToolTip": "Ernie\\AI_cahtbot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:30:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DrugDateinfomation.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "RelativeToolTip": "Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DrugDateinfomation.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\DrugDateinfomation.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Medical_control\\DrugDateinfomation.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Online_docotor_search.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Online_docotor_search.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Online_docotor_search.Designer.cs",
+              "RelativeToolTip": "Ernie\\Online_docotor_search.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:58:31.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateDrugDate.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "RelativeToolTip": "Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InquireDrugDate.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\InquireDrugDate.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\InquireDrugDate.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\InquireDrugDate.cs",
+              "RelativeToolTip": "Ernie\\Medical_control\\InquireDrugDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InquireDrugDate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\InquireDrugDate.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\InquireDrugDate.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\InquireDrugDate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Medical_control\\InquireDrugDate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:39.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.cs",
+              "RelativeDocumentMoniker": "Ernie\\Login.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Login.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:12:45.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateDrugDate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\UpdateDrugDate.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\UpdateDrugDate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Ernie\\Medical_control\\UpdateDrugDate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:37:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DrugDateinfomation.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Medical_control\\DrugDateinfomation.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Medical_control\\DrugDateinfomation.Designer.cs",
+              "RelativeToolTip": "Ernie\\Medical_control\\DrugDateinfomation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:44:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\UserForm.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\UserForm.Designer.cs",
+              "RelativeToolTip": "Ernie\\UserForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:24:00.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Hospital_sum.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Hospital_sum.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Hospital_sum.Designer.cs",
+              "RelativeToolTip": "Ernie\\Hospital_sum.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:08:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MedicalRecordForm.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\MedicalRecordForm.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\MedicalRecordForm.Designer.cs",
+              "RelativeToolTip": "Ernie\\MedicalRecordForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:34:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Program.cs",
+              "RelativeDocumentMoniker": "Ernie\\Program.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Program.cs",
+              "RelativeToolTip": "Ernie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:34:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoctorInfoForm.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\DoctorInfoForm.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\DoctorInfoForm.Designer.cs",
+              "RelativeToolTip": "Ernie\\DoctorInfoForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:08:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\AdminForm.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Ernie\\AdminForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:50:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ernie.csproj",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Ernie.csproj",
+              "RelativeDocumentMoniker": "Ernie\\Ernie.csproj",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Ernie.csproj",
+              "RelativeToolTip": "Ernie\\Ernie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T13:27:18.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Login.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Login.Designer.cs",
+              "RelativeToolTip": "Ernie\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:22:30.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "E:\\visual studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\visual studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "E:\\visual studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\visual studio 2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAK0UAAAAAAAAAAAtwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-17T11:41:51.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Ernie\\Register.Designer.cs",
+              "ToolTip": "E:\\Ernie\\Ernie - Copy\\Ernie\\Register.Designer.cs",
+              "RelativeToolTip": "Ernie\\Register.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:46:58.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
