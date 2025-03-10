@@ -17,5 +17,5 @@
 ![image](https://github.com/user-attachments/assets/e2c3fd7b-699b-497b-9533-c68a8a786770)
 ### 医疗小助手模块
 ![image](https://github.com/user-attachments/assets/4fa86571-f366-4b0b-aeba-7e04f81058aa)
-## 具体的模块功能详情见源码运行结果，如果你觉得我的工作对你有帮助，麻烦帮忙点个star
 
+***包括但不仅局限于以上功能,具体的模块功能详情见源码运行结果，如果你觉得我的工作对你有帮助，麻烦帮忙点个star***
